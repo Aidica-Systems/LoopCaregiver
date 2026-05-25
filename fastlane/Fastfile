@@ -132,6 +132,9 @@ platform :ios do
       changelog: "Monthly Update",
       distribute_external: true,
       groups: [
+        "External",
+        "KFMC - Riyadh",
+        "Montreal Childrens Hospital",
         "SK Endocrinology and Diabetes Program"
       ],
       skip_waiting_for_build_processing: false,
